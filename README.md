@@ -7,7 +7,7 @@
 
 ### Guide
 
- This Scrip will help you to getting user Messages from a specific button.
+ This Script will help you to getting user Messages from a specific button.
 
 ## License
 
