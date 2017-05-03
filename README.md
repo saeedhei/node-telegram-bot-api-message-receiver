@@ -1,8 +1,8 @@
-# Ntba-Message-Receiver
+# NTBA-Message-Receiver
 
 > Hello!
 
-:speech_balloon: A Message Receiver for node-telegram-bot-api
+:speech_balloon: A Message Receiver for `node-telegram-bot-api`
 
 
 ### Guide
